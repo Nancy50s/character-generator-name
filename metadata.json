@@ -1,0 +1,5 @@
+{
+  "name": "Character Forge",
+  "description": "A powerful random character generator featuring detailed backstories and portraits, running entirely locally.",
+  "requestFramePermissions": []
+}
